@@ -4,4 +4,3 @@ from main import spaceRocks
 if __name__ == "__main__":
     space_rock=spaceRocks()
     space_rock.main_loop()
-    
